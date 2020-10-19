@@ -1,12 +1,11 @@
-### Hai semua 👋
+### HI PEOPLE 👋
 
 <img align="center" src="assets/Profile.png"/>
 
-<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/about.png?raw=true"/>
+## ABOUT ME
 
-- 🔭 I’m currently studying i
-- 🌱 I’m currently learning Backend
-- 💬 Ask me anything about Frontend
+- 🌱 I’m currently learning HTML, CSS, Javascript, and C++, Python, MySQL, Java.
+- 🔭 I’m currently working on creating websites .
 
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/connect.png?raw=true"/>
 
