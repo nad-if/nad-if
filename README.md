@@ -7,7 +7,11 @@
 - 🌱 I’m currently learning HTML, CSS, Javascript, and C++, Python, MySQL, Java.
 - 🔭 I’m currently working on creating websites .
 
-<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/connect.png?raw=true"/>
+## CONNECT WITH ME
+
+https://www.linkedin.com/in/nadif-aulia-putra-9a5035166/
+
+<!--
 
 - <a href="https://www.instagram.com/teen_developer/"><img src="https://img.shields.io/badge/instagram%20@teen_developer-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 - <a href="https://www.instagram.com/teen_developer/"><img src="https://img.shields.io/badge/facebook%20@saviomartin.1694-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
@@ -36,8 +40,9 @@
 ![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
 
+-->
 
-<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/git.png?raw=true"/>
+## MY GITHUB STATUS
 
 <img src="https://github-readme-stats.vercel.app/api?username=nad-if&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 
@@ -46,7 +51,9 @@
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=saviomartin" id="counter">
 </p>
-⭐️ From [nad-if](https://github.com/nad-if)
+
+
+https://www.linkedin.com/in/nadif-aulia-putra-9a5035166/
 
 <!--
 **nad-if/nad-if** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
