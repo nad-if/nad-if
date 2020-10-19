@@ -13,9 +13,7 @@ https://www.linkedin.com/in/nadif-aulia-putra-9a5035166/
 
 ## MY GITHUB STATUS
 
-<img src="https://github-readme-stats.vercel.app/api?username=nad-if&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=nad-if)
+![My github stats](https://github-readme-stats.vercel.app/api?username=nad-if&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nad-if)
 
