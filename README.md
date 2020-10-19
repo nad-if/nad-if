@@ -11,6 +11,31 @@
 
 https://www.linkedin.com/in/nadif-aulia-putra-9a5035166/
 
+## MY GITHUB STATUS
+
+<img src="https://github-readme-stats.vercel.app/api?username=nad-if&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nad-if&theme=radical&title_color=8E2DE2&text_color=fff)
+
+
+<!--
+**nad-if/nad-if** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Perkenalkan, nama saya Nadif Aulia Putra dan biasanya dipanggil Nadif. Saat ini kuliah di STEI ITB Angkatan 2020.
+
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 <!--
 
 - <a href="https://www.instagram.com/teen_developer/"><img src="https://img.shields.io/badge/instagram%20@teen_developer-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -40,35 +65,4 @@ https://www.linkedin.com/in/nadif-aulia-putra-9a5035166/
 ![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
 
--->
-
-## MY GITHUB STATUS
-
-<img src="https://github-readme-stats.vercel.app/api?username=nad-if&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saviomartin&theme=radical&title_color=8E2DE2&text_color=fff)
-
-<p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=saviomartin" id="counter">
-</p>
-
-
-https://www.linkedin.com/in/nadif-aulia-putra-9a5035166/
-
-<!--
-**nad-if/nad-if** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Perkenalkan, nama saya Nadif Aulia Putra dan biasanya dipanggil Nadif. Saat ini kuliah di STEI ITB Angkatan 2020.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
