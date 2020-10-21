@@ -4,14 +4,14 @@
 
 ## ABOUT ME
 
-- 🌱 I’m currently learning HTML, CSS, Javascript, and C++, Python, MySQL, Java.
-- 🔭 I’m currently working on creating websites .
+- 🔭  I’m currently in my first year of study at Bandung Institute of Technology
+- 🌱 I’m currently learning web development
+- ⚡ Fun fact: I usually sing when I'm bored
 
 ## My Field of Interest
-- Data Science
-- Machine Learning
-- Software Engineering
 - Web Development
+- Software Engineering
+- Data Science
 
 ## CONNECT WITH ME
 
