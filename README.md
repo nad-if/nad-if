@@ -7,6 +7,12 @@
 - 🌱 I’m currently learning HTML, CSS, Javascript, and C++, Python, MySQL, Java.
 - 🔭 I’m currently working on creating websites .
 
+## My Field of Interest
+- Data Science
+- Machine Learning
+- Software Engineering
+- Web Development
+
 ## CONNECT WITH ME
 
 [<img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
