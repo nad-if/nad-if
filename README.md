@@ -9,7 +9,14 @@
 
 ## CONNECT WITH ME
 
-https://www.linkedin.com/in/nadif-aulia-putra-9a5035166/
+[<img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+---
+
+[linkedin]: https://www.linkedin.com/in/nadif-aulia-putra-9a5035166/
+[instagram]: https://www.instagram.com/___nadif/
+
 
 ## LANGUAGE AND TOOLS:
 
