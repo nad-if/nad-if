@@ -4,8 +4,8 @@
 
 ## ABOUT ME
 
-- 🔭  I’m currently in my first year of study at Bandung Institute of Technology
-- 🌱 I’m currently learning web development
+- 🔭  I’m currently in my last year of study at Bandung Institute of Technology
+- 🌱 I’m currently learning machine learning
 - ⚡ Fun fact: I usually sing when I'm bored
 
 ## My Field of Interest
